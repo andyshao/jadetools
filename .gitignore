@@ -3,3 +3,8 @@
 ################################################################################
 
 /JT/bin
+/.vs/JadeTools/v15/Server/sqlite3
+/packages
+/JT.CommonUtils/bin
+/JT.CommonUtils/obj
+/JT/obj
